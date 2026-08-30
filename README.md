@@ -185,7 +185,7 @@ It's discovering **why something doesn't work — and figuring out how to make i
 
 ---
 
-## 📈 My Developer Philosophy
+##  My Developer Philosophy
 
 > ### **Learn something. Build something. Break something. Understand why. Build it better.**
 
@@ -193,7 +193,7 @@ I believe consistent curiosity is more valuable than trying to know everything.
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -205,7 +205,7 @@ I believe consistent curiosity is more valuable than trying to know everything.
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/naga-1131">
 <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github"/>
 </a>
 
