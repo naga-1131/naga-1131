@@ -131,17 +131,7 @@ Currently focused on becoming stronger at building complete applications — fro
 
 ---
 
-# GITHUB SYSTEM STATUS
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=naga-1131&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naga-1131&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
----
 
 #  CONTRIBUTION ENGINE
 
