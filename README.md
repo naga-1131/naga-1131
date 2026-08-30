@@ -35,21 +35,21 @@ Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 
 ---
 
-## 🛠️ My Developer Toolbox
+##  My Developer Toolbox
 
-### 💻 Languages
+###  Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql,html,css" />
+<img src="https://skillicons.dev/icons?i=java,c,c++,python,javascript,html,css" />
 </p>
 
-### ⚙️ Frameworks & Development
+### Frameworks & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,react" />
 </p>
 
-### 🗄️ Databases & Tools
+###  Databases & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
@@ -60,7 +60,7 @@ Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 
 ---
 
-## 💼 Where I've Learned by Building
+##  Where I've Learned by Building
 
 ```text
 ┌──────────────────────────────────────────────┐
