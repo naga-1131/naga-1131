@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **Nagaiah Vasunuri**
+#  Hey, I'm **Nagaiah Vasunuri**
 
 ### `Curious by default. Builder by choice.`
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧭 Who Am I?
+##  Who Am I?
 
 > **I don't just learn technologies — I learn by trying to build something with them.**
 
@@ -57,61 +57,6 @@ Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 
 ---
 
-## 🚀 Things I've Built
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌱 Smart Soil Recommendation
-
-A practical agriculture-focused system combining simulated IoT sensor data, NPK analysis, machine learning and an interactive Flask dashboard.
-
-**Stack**
-
-`Python` `Flask` `Random Forest` `IoT` `ML`
-
-</td>
-
-<td width="50%">
-
-### 🛒 EcoBazaarX
-
-A sustainability-focused shopping assistant developed during my software development internship, exploring technology-assisted decision making.
-
-**Stack**
-
-`Java` `Python` `SQL` `Software Development`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗣️ Field Voices
-
-A multilingual issue-reporting platform designed to make communication between users and organizations easier through technology.
-
-**Stack**
-
-`HTML` `CSS` `JavaScript` `AI`
-
-</td>
-
-<td width="50%">
-
-### 🏨 Management Systems
-
-Java-based management applications focused on practical business workflows, CRUD operations, database integration and backend development.
-
-**Stack**
-
-`Java` `Spring Boot` `JDBC` `MySQL`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -122,17 +67,15 @@ Java-based management applications focused on practical business workflows, CRUD
 │              EXPERIENCE JOURNEY              │
 ├──────────────────────────────────────────────┤
 │                                              │
-│  Software Development Intern                │
+│  Software Development Intern                 │
 │  Infosys Springboard                         │
 │                                              │
 │  AI & Cloud Intern                           │
 │  IBM SkillsBuild                             │
 │                                              │
-│  AI Engineer Intern                          │
-│  Pathnovo Solutions                          │
-│                                              │
-│  AI & Robotics Intern                        │
-│  Math Creations                              │
+│  Fulllstack With Ai Intern                   |
+|  shell corporation                          |
+|                                              │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
@@ -141,7 +84,7 @@ Each experience has taught me something different — from writing code and work
 
 ---
 
-## 🧠 Currently Exploring
+##  Currently Exploring
 
 ```text
 Java Full Stack Development
@@ -199,17 +142,17 @@ I'm continuously experimenting with new technologies and trying to understand **
 
 ### Highlights
 
-🏆 **Great Learning AI Challenge 2025 — Top 2**
+ Great Learning AI Challenge 2025 
 
-💡 **Smart India Hackathon — Participant**
+ Smart India Hackathon — Participant**
 
-🎯 Technical challenges, internships and project-based learning
+Technical challenges, internships and project-based learning
 
-🌐 Campus leadership and technology community activities
+Campus leadership and technology community activities
 
 ---
 
-## 🧩 How I Think
+##  How I Think
 
 I enjoy projects where there isn't an obvious answer.
 
@@ -232,7 +175,7 @@ I enjoy projects where there isn't an obvious answer.
                         Improve
                             │
                             ▼
-                         Build 🚀
+                         Build 
 ```
 
 For me, the most interesting part of development isn't always the final product.
