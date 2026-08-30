@@ -55,7 +55,7 @@ I enjoy the part of development where the answer isn't obvious.
 
 ---
 
-# `02 // DEVELOPER TOOLBOX`
+#  DEVELOPER TOOLBOX
 
 <div align="center">
 
@@ -79,7 +79,7 @@ I enjoy the part of development where the answer isn't obvious.
 
 ---
 
-# `03 // EXPERIENCE`
+# EXPERIENCE
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
@@ -102,7 +102,7 @@ Every experience has been an opportunity to move from **learning concepts to app
 
 ---
 
-# `04 // CURRENTLY BUILDING MYSELF`
+#  CURRENTLY BUILDING MYSELF
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Currently focused on becoming stronger at building complete applications — fro
 
 ---
 
-# `06 // GITHUB SYSTEM STATUS`
+# GITHUB SYSTEM STATUS
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Currently focused on becoming stronger at building complete applications — fro
 
 ---
 
-# `07 // CONTRIBUTION ENGINE`
+#  CONTRIBUTION ENGINE
 
 <div align="center">
 
@@ -157,7 +157,7 @@ Currently focused on becoming stronger at building complete applications — fro
 
 ---
 
-# `09 // ACHIEVEMENTS`
+#  ACHIEVEMENTS
 
 <div align="center">
 
@@ -183,33 +183,33 @@ TECHNOLOGY COMMUNITY ACTIVITIES
 
 ---
 
-# `10 // THE WAY I THINK`
+#  THE WAY I THINK
 
 <div align="center">
 
 ```text
-                   "CAN THIS BE BUILT?"
-                           |
-                           v
-                      UNDERSTAND
-                           |
-                           v
-                      EXPERIMENT
-                           |
-                           v
-                       PROTOTYPE
-                           |
-                           v
-                         TEST
-                           |
-                           v
-                        DEBUG
-                           |
-                           v
-                       IMPROVE
-                           |
-                           v
-                         BUILD
+                                    "CAN THIS BE BUILT?"
+                                             |
+                                             v
+                                         UNDERSTAND
+                                             |
+                                             v
+                                         EXPERIMENT
+                                             |
+                                             v
+                                         PROTOTYPE
+                                             |
+                                             v
+                                            TEST
+                                             |
+                                             v
+                                           DEBUG
+                                             |
+                                             v
+                                          IMPROVE
+                                             |
+                                             v
+                                           BUILD
 ```
 
 </div>
@@ -220,7 +220,7 @@ The interesting part is discovering **why something doesn't work** and figuring 
 
 ---
 
-# `11 // DEVELOPER PHILOSOPHY`
+#  DEVELOPER PHILOSOPHY
 
 <div align="center">
 
@@ -244,7 +244,7 @@ BUILD IT BETTER
 
 ---
 
-# `12 // CONNECT`
+# CONNECT
 
 <div align="center">
 
