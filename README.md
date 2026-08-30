@@ -109,35 +109,35 @@ I'm continuously experimenting with new technologies and trying to understand **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=naga-1131&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naga-1131&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Journey
+##  Contribution Journey
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=naga-1131&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naga-1131&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=naga-1131&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
