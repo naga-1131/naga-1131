@@ -91,7 +91,10 @@ I enjoy the part of development where the answer isn't obvious.
 │                                                            │
 │  AI & CLOUD INTERN                                         │
 │  IBM SkillsBuild                                           │
-│                                                            │
+│                                                            |
+| Information Technoly Intern                                |
+| Madanapalle institute of technology and Science            |
+|                                                            │
 │  FULLSTACK WITH AI INTERN                                  │
 │  Shell Corporation                                         │
 │                                                            │
