@@ -12,7 +12,7 @@
 
 ---
 
-# `01 // IDENTITY`
+#  IDENTITY
 
 <div align="center">
 
