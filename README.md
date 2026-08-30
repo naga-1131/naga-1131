@@ -131,80 +131,6 @@ Currently focused on becoming stronger at building complete applications — fro
 
 ---
 
-# `05 // PROJECT LAB`
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/SMART_SOIL-0d1117?style=for-the-badge&logo=leaf&logoColor=00BFFF" />
-</a>
-
-</div>
-
-### Smart Soil Nutrient & Crop Recommendation System
-
-A practical agriculture-focused system combining simulated IoT sensor data, NPK analysis, machine learning and an interactive Flask dashboard.
-
-```text
-Python    Flask    Random Forest    IoT    Data Analysis
-```
-
----
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/ECOBAZAARX-0d1117?style=for-the-badge&logo=shopping-bag&logoColor=00BFFF" />
-</a>
-
-</div>
-
-### EcoBazaarX
-
-A sustainability-focused shopping assistant developed during my software development internship, combining software development with environmentally conscious decision support.
-
-```text
-Java    Python    SQL    Software Development
-```
-
----
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/FIELD_VOICES-0d1117?style=for-the-badge&logo=googletranslate&logoColor=00BFFF" />
-</a>
-
-</div>
-
-### Field Voices
-
-A multilingual platform designed to make issue reporting and communication easier through technology.
-
-```text
-HTML    CSS    JavaScript    Multilingual    AI
-```
-
----
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/JAVA_MANAGEMENT_SYSTEMS-0d1117?style=for-the-badge&logo=spring&logoColor=00BFFF" />
-</a>
-
-</div>
-
-### Java Management Systems
-
-Backend-focused applications built around practical workflows, CRUD operations, database integration and business logic.
-
-```text
-Java    Spring Boot    JDBC    MySQL    REST APIs
-```
-
----
-
 # `06 // GITHUB SYSTEM STATUS`
 
 <div align="center">
@@ -228,18 +154,6 @@ Java    Spring Boot    JDBC    MySQL    REST APIs
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=naga-1131&bg_color=0D1117&color=FFFFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
-
----
-
-# `08 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/naga-1131/naga-1131/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
-
-</div>
-
-> Contribution visualization generated from my GitHub activity.
 
 ---
 
