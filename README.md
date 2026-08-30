@@ -242,11 +242,11 @@ BUILD IT BETTER
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nagaiah-vasunuri-1412a4260/">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nagaiahvasunuri@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
 </a>
 
