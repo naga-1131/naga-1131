@@ -105,18 +105,6 @@ I'm continuously experimenting with new technologies and trying to understand **
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=naga-1131&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naga-1131&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ##  Contribution Journey
@@ -212,17 +200,3 @@ I believe consistent curiosity is more valuable than trying to know everything.
 </div>
 
 ---
-
-<div align="center">
-
-### 👀 You made it this far.
-
-**Maybe there's something interesting in the repositories below.**
-
-⭐ If something catches your curiosity, feel free to explore it.
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat" />
-
-</div>
