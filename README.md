@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=naga-1131&label=PROFILE%20VIEWS&color=00BFFF&style=flat-square" />
+
 
 </div>
 
