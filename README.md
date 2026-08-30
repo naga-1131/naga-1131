@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hey, I'm **Nagaiah Vasunuri**
+#  Hey, I'm **NAGAIAH VASUNURI**
 
 ### `Curious by default. Builder by choice.`
 
@@ -11,6 +11,7 @@
 <a href="https://github.com/">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -40,7 +41,7 @@ Curiosity → Learn → Build → Break → Debug → Improve → Repeat
 ###  Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,c++,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css" />
 </p>
 
 ### Frameworks & Development
